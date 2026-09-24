@@ -1,0 +1,26 @@
+{
+  "name": "腎機能別 薬剤確認",
+  "short_name": "腎機能薬剤",
+  "description": "Cockcroft–Gault式によるCLcr確認と、腎機能別薬剤情報を確認するWebアプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ja",
+  "theme_color": "#0f766e",
+  "background_color": "#f5f7f8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
